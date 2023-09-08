@@ -17,7 +17,7 @@ def get_info():
     current_time = current_time.strftime("%Y-%m-%d %H:%M:%S")
 
     # Define your GitHub URLs
-    github_file_url = "https://github.com/94Cent/repo/blob/main/file_name.ext"
+    github_file_url = "https://github.com/94Cent/repo/blob/main/vod/stage_one.py"
     github_repo_url = "https://github.com/94Cent/repo"
 
     # Create the JSON response
